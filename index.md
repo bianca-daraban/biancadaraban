@@ -49,7 +49,7 @@ La nivel național respectarea drepturilor persoanelor cu privire la datele cu c
 </ul>
 </hr>
 <br><br>
-<a target="blank" href="https://drive.google.com/file/d/123d5xHeMnDA3vYUwvtLlC2AG25O-lEs8/view?usp=sharing">
+<a target="blank" href="https://didatec-my.sharepoint.com/:w:/g/personal/daraban_fl_bianca_utcluj_didatec_ro/ESZLn94USjtLojzvb-kNkT8BNofHBGAauTSjT6BRqav4HQ?e=wWhTlD">
 	<button class="btn btn-warning">Analiza DPIA</button>
 </a>
 </body>
